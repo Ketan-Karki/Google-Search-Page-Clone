@@ -1,0 +1,207 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+#logo
+{
+    width: 18%;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    text-align: center;
+}
+
+
+nav ul
+{
+    list-style-type: none;
+    float: right;
+    padding-right: 8%;
+    padding-top: 1.5%;
+}
+
+nav li 
+{
+    display: inline-block;
+    padding: 0 10px;
+}
+
+nav a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+
+#apps
+{
+    width: 2%;
+    position: absolute;
+    top: 2.3%;
+    right: 5%;
+}
+
+#user
+{
+    width: 2.5%;
+    position: absolute;
+    top: 2%;
+    right: 1%;
+}
+
+#searchBox
+{
+    display: block;
+    position: absolute;
+    top: 37%;
+    left: 31%;
+    width: 30%;
+    height: 6%;
+    border: 1px solid rgb(204, 201, 201);
+    border-radius: 25px;
+    padding: 0 50px;
+    outline: none;
+    transition: 0.3s;
+    font-size: 16px;
+}
+
+#searchBox:hover
+{
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+#searchButton
+{
+    display: block;
+    position: absolute;
+    top: 47%;
+    left: 40.6%;
+    border: none;
+    width: 8.3%;
+    height: 5%;
+    background: rgb(248, 244, 244) ;
+}
+
+#luckySearchButton
+{
+    display: block;
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    border: none;
+    width: 8.3%;
+    height: 5%;
+    background: rgb(248, 244, 244) ;
+}
+
+#offer
+{
+    position: absolute;
+    top: 56%;
+    left: 31.2%;
+    font-size: 15px;
+}
+
+#lang a
+{
+    color: rgb(11, 11, 172);
+    text-decoration: none;
+}
+
+#lang a:hover
+{
+    text-decoration: underline;
+}
+
+#searchIcon
+{
+    width: 2%;
+    position: absolute;
+    top: 38.5%;
+    left: 31.8%;
+    z-index: 1;
+}
+
+#mic
+{
+    width: 1.2%;
+    position: absolute;
+    top: 38.4%;
+    left: 65.5%;
+    z-index: 1;
+}
+
+footer
+{
+    position: absolute;
+    bottom: 0;
+    background: rgb(238, 237, 237);
+    width: 100%;
+    color: rgb(119, 118, 118);
+    font-size: 15px;
+}
+
+.line
+{
+    display:block;
+    border-top: 1px solid rgb(209, 207, 207);
+}
+
+footer div
+{
+    padding: 15px 15px 15px 30px;
+    font-size: 16px;
+}
+
+#ul1 a
+{
+    text-decoration: none;
+    color: rgb(119, 118, 118);
+}
+
+#ul1 li
+{
+    display: inline;
+    float: left;
+    padding: 15px;
+}
+
+#ul2 a
+{
+    text-decoration: none;
+    color: rgb(119, 118, 118);
+}
+
+#ul2 li
+{
+    display: inline;
+    float: right;
+    padding: 15px;
+}
+
+#ul1
+{
+    padding-left: 20px;
+}
+
+#ul2
+{
+    padding-right: 20px;
+}
+
+#ul1 li:hover
+{
+    text-decoration: underline;
+}
+
+#ul2 li:hover
+{
+    text-decoration: underline;
+}
