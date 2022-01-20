@@ -1,7 +1,7 @@
 # Google-Search-Clone
 
 ## Preview:
-[https://ketankarki.github.io/Google-Search-Clone/](https://ketankarki.github.io/Google-Search-Clone/)
+[https://ketankarki.github.io/Google-Search-Page-Clone/](https://ketankarki.github.io/Google-Search-Page-Clone/)
 
 This is a clone of Google's Search Page made using HTML and CSS only.
 To visit the original site, [Click Here](https://www.google.co.in/)
